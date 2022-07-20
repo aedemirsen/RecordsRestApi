@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/aedesium/.dotnet/store/|arch|/|tfm|",
+      "/Users/aedesium/.nuget/packages"
+    ]
+  }
+}
